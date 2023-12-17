@@ -18,12 +18,12 @@
 
 <p>** Responsive login **</p>
 <p align= "center">
-  <img style="width:26rem; height:100%" src="https://github.com/YonierGM/recursos/blob/master/Desktop.png?raw=true"/>
-  <img style="width:26rem; height:auto; object-fit: contain;" src="https://github.com/YonierGM/recursos/blob/master/Login-Desktop.jpg"/>
+  <img style="width:100%; height:100%;" src="https://github.com/YonierGM/recursos/blob/master/Desktop.png?raw=true"/>
 </p>
 
+
 <p align="center">
-  
+<img style="width:100%; height:100%;" src="https://github.com/YonierGM/recursos/blob/master/Login-Desktop.jpg"/>
 </p>
 
 <h3 align="center">Frontend</h3>
