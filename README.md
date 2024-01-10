@@ -21,9 +21,14 @@
   <img style="width:100%; height:100%;" src="https://github.com/YonierGM/recursos/blob/master/Desktop.png?raw=true"/>
 </p>
 
-
+<p>** Api unsplash **</p>
 <p align="center">
 <img style="width:100%; height:100%;" src="https://github.com/YonierGM/recursos/blob/master/unsplash.png?raw=true"/>
+</p>
+
+<p>** Api Rick and Morty **</p>
+<p align="center">
+<img style="width:100%; height:100%;" src="https://github.com/YonierGM/recursos/blob/master/Rick.png?raw=true"/>
 </p>
 
 <h3 align="center">Frontend</h3>
