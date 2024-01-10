@@ -23,7 +23,7 @@
 
 
 <p align="center">
-<img style="width:100%; height:100%;" src="https://github.com/YonierGM/recursos/blob/master/usplash.png"/>
+<img style="width:100%; height:100%;" src="https://github.com/YonierGM/recursos/blob/master/unsplash.png?raw=true"/>
 </p>
 
 <h3 align="center">Frontend</h3>
