@@ -93,7 +93,7 @@
 
 <div style="margin-top:10px" align="center">
   <div>
-    <a  href="https://www.linkedin.com/in/yonier-garcia-mosquera-8a4a20167/" target="_blank">
+    <a  href="https://www.linkedin.com/in/yonier-garcia-mosquera-85a0b72a9/" target="_blank">
       <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
     </a>
   </div>
