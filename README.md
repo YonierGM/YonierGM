@@ -15,6 +15,10 @@
 - ⚽ As a child I wanted to be a footballer
 
 ---
+<p>** Vibras Store **</p>
+<p align= "center">
+  <img style="width:100%; height:100%;" src="https://github.com/YonierGM/imagenes-proyecto/blob/master/Vibras-store.jpg?raw=true"/>
+</p>
 
 <p>** Responsive login **</p>
 <p align= "center">
